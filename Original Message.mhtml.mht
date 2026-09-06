@@ -1,0 +1,1181 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://mail.google.com/mail/u/0/?ik=44d3d936c7&view=om&permmsgid=msg-f:1873774177548791314
+Subject: Original Message
+Date: Sun, 6 Sep 2026 21:30:22 +0200
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--amMUkYHR6UgKrw7hqBWNHF7CMc1VhkIewfddqdgqiU----"
+
+
+------MultipartBoundary--amMUkYHR6UgKrw7hqBWNHF7CMc1VhkIewfddqdgqiU----
+Content-Type: text/html
+Content-ID: <frame-A651E298CE6A126CACDB8F36CC8A1DE8@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://mail.google.com/mail/u/0/?ik=44d3d936c7&view=om&permmsgid=msg-f:1873774177548791314
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-ebea6e=
+1f-1749-4560-9e12-98e976714419@mhtml.blink" /><title>Original Message</titl=
+e><link rel=3D"shortcut icon" href=3D"https://ssl.gstatic.com/ui/v1/icons/m=
+ail/images/favicon_gmail_2026_v2.ico" type=3D"image/x-icon"></head><body><d=
+iv class=3D"page-wrapper"><div class=3D"top-area"><h3 class=3D"page_title">=
+Original Message</h3><div id=3D"butterbar-container"><div id=3D"butterbar-w=
+rap"><div class=3D"jfk-butterBar jfk-butterBar-info" aria-live=3D"assertive=
+" aria-atomic=3D"true"><div id=3D"status-messages"><div id=3D"copy-error" s=
+tyle=3D"display:none;">There was a problem copying the raw header and body.=
+</div><div id=3D"copy-success" style=3D"display:none;"><span class=3D"clipb=
+oard-icon"></span>Copied to clipboard!</div></div></div></div></div><table>=
+<tbody><tr><th>Message ID</th><td class=3D"message_id">&lt;d1f90e5d61ef47b1=
+b59ce9a90a233084@AM0PR09MB3875.eurprd09.prod.outlook.com&gt;</td></tr><tr><=
+th>Created at:</th><td>Mon, Aug 17, 2026 at 2:38 PM (Delivered after 2 seco=
+nds)</td></tr><tr><th>From:</th><td>"owner.supportde" &lt;owner.support@sup=
+port.dyson.de&gt;</td></tr><tr><th>To:</th><td class=3D"toRecipientsSelecto=
+r">Yivhenii Istrotenko &lt;istrotenkoyivhenii@gmail.com&gt;</td></tr><tr><t=
+h>Subject:</th><td>RE: [EXTERNAL EMAIL]Re: Dyson - Fallnummer: 55241983 [ t=
+hread::0pKl7r8UMk-bRpd54cC95x4:: ]</td></tr><tr><th>SPF:</th><td><span clas=
+s=3D"authresult">PASS</span> with IP 2a01:111:f403:c207:0:0:0:3 <a href=3D"=
+https://support.google.com/a?p=3Dshow_original&amp;hl=3Den" target=3D"_blan=
+k" class=3D"learn-more-link">Learn more</a></td></tr><tr><th>DKIM:</th><td>=
+<span class=3D"authresult">'PASS'</span> with domain support.dyson.de <a hr=
+ef=3D"https://support.google.com/a?p=3Dshow_original&amp;hl=3Den" target=3D=
+"_blank" class=3D"learn-more-link">Learn more</a></td></tr><tr><th>DMARC:</=
+th><td><span class=3D"authresult">'PASS'</span> <a href=3D"https://support.=
+google.com/a?p=3Dshow_original&amp;hl=3Den" target=3D"_blank" class=3D"lear=
+n-more-link">Learn more</a></td></tr></tbody></table><br><br><div class=3D"=
+more-actions"><div class=3D"spacing"></div><div class=3D"download-links"><a=
+ class=3D"download-buttons" href=3D"https://mail.google.com/mail/u/0?view=
+=3Datt&amp;th=3D1a00fbafd2186e12&amp;attid=3D0&amp;disp=3Dcomp&amp;safe=3D1=
+&amp;zw">Download Original</a></div><div class=3D"header-body-button"><div =
+class=3D"copy-header-body-button jfk-button jfk-button-action" id=3D"copy-h=
+eader-body-button" style=3D"" tabindex=3D"0">Copy to clipboard</div></div><=
+div class=3D"spacing"></div></div></div><div id=3D"bottom-area" class=3D"bo=
+ttom-area"><div class=3D"raw_message"><pre class=3D"raw_message_text" id=3D=
+"raw_message_text">Delivered-To: istrotenkoyivhenii@gmail.com
+Received: by 2002:a05:7301:d0b:b0:30f:18d9:797f with SMTP id kl11csp2568074=
+dyb; Mon, 17 Aug 2026 05:38:28 -0700 (PDT)
+X-Received: by 2002:a05:600c:6290:b0:495:4689:1e98 with SMTP id 5b1f17b1804=
+b1-4998e074297mr308623715e9.10.1786970308345; Mon, 17 Aug 2026 05:38:28 -07=
+00 (PDT)
+ARC-Seal: i=3D2; a=3Drsa-sha256; t=3D1786970308; cv=3Dpass; d=3Dgoogle.com;=
+ s=3Darc-20260327; b=3DagEa3cCk/QGbxsaL8PzxxlTYtbSvjVzNgvriehHeG0lcsriQgGOD=
+ZLceg0+cWb3aW5 Hk/gtUnIs5HmwGtDRNy28W8rQAsSkyJUcryOEgK2OPUzVEe7UNeH/rAzUU6w=
+y+CcblkF mPZn+WnjxlT9g05WmkIiJuz0bWJtuIk30ge6250TRgyXNC/+GO39sRPNgVC7T5SKqN=
+95 YlsMDPL1mqE1n/cYB/CwOmYZNYVDLSnHQ9FFpZDYVOrqS8CvHySceBfbfzG1lr7FxYXP YV0=
+v4P/N2V0K1Nf7VUekmYIftXOs/bLCXnoTVDcMVP7iWQCIa41Sz4JE6suXaA0CEdW7 it5g=3D=
+=3D
+ARC-Message-Signature: i=3D2; a=3Drsa-sha256; c=3Drelaxed/relaxed; d=3Dgoog=
+le.com; s=3Darc-20260327; h=3Dmime-version:auto-submitted:in-reply-to:refer=
+ences:message-id:date :thread-index:thread-topic:subject:to:from:dkim-signa=
+ture; bh=3DyrMFwcoCfx2szOXxqjFFBpQQfcLFqkt/0N4u058vF5I=3D; fh=3DZ7mNKj1cJPu=
+1cjaFPKW8avZunqJEfg7vwJZIpsLf/b0=3D; b=3DdHwTs9s4NkAdSLB3mYJG7BFEO3nRqSXK7T=
+XKxTQLqiIEnjwToE2cDX+TovcrnAZkbD sOjdJxygDvLLrNRWKzQLchhg4UEFHBcNm5oi+2ZyCq=
+HxMW7l3WUVEsDV6/1vxVzK8dD/ eH/DPkycPvLcTfNm7P0zOvHkZfs16WgEtCxqwJjaYkhyyuNC=
+NePDVYOkRzR8NtxaI+91 U0GFz8AUm+jkhkKQDfCdHFWQpT/F3HhRMrLWYAO87Sq0XsqXSLC0+w=
+Pyb+1NHRkTl3GW zp1F9aYkgtlvpmLhp3B2Ll2Y1V/CwCVKKvwBD6Epe+M0j3W3KkPKR7Mcv6A0=
+t7BYo963 A8oA=3D=3D; dara=3Dgoogle.com
+ARC-Authentication-Results: i=3D2; mx.google.com; dkim=3Dpass header.i=3D@s=
+upport.dyson.de header.s=3Dselector1 header.b=3DR9+eAj2S; arc=3Dpass (i=3D1=
+ spf=3Dpass spfdomain=3Dsupport.dyson.de dkim=3Dpass dkdomain=3Dsupport.dys=
+on.de dmarc=3Dpass fromdomain=3Dsupport.dyson.de); spf=3Dpass (google.com: =
+domain of owner.support@support.dyson.de designates 2a01:111:f403:c207::3 a=
+s permitted sender) smtp.mailfrom=3Downer.support@support.dyson.de; dmarc=
+=3Dpass (p=3DNONE sp=3DNONE dis=3DNONE) header.from=3Ddyson.de
+Return-Path: &lt;owner.support@support.dyson.de&gt;
+Received: from MRWPR03CU001.outbound.protection.outlook.com (mail-francesou=
+thazlp170110003.outbound.protection.outlook.com. [2a01:111:f403:c207::3]) b=
+y mx.google.com with ESMTPS id ffacd0b85a97d-482a5b8b07bsi2372203f8f.414.20=
+26.08.17.05.38.27 for &lt;istrotenkoyivhenii@gmail.com&gt; (version=3DTLS1_=
+3 cipher=3DTLS_AES_256_GCM_SHA384 bits=3D256/256); Mon, 17 Aug 2026 05:38:2=
+7 -0700 (PDT)
+Received-SPF: pass (google.com: domain of owner.support@support.dyson.de de=
+signates 2a01:111:f403:c207::3 as permitted sender) client-ip=3D2a01:111:f4=
+03:c207::3;
+Authentication-Results: mx.google.com; dkim=3Dpass header.i=3D@support.dyso=
+n.de header.s=3Dselector1 header.b=3DR9+eAj2S; arc=3Dpass (i=3D1 spf=3Dpass=
+ spfdomain=3Dsupport.dyson.de dkim=3Dpass dkdomain=3Dsupport.dyson.de dmarc=
+=3Dpass fromdomain=3Dsupport.dyson.de); spf=3Dpass (google.com: domain of o=
+wner.support@support.dyson.de designates 2a01:111:f403:c207::3 as permitted=
+ sender) smtp.mailfrom=3Downer.support@support.dyson.de; dmarc=3Dpass (p=3D=
+NONE sp=3DNONE dis=3DNONE) header.from=3Ddyson.de
+ARC-Seal: i=3D1; a=3Drsa-sha256; s=3Darcselector10001; d=3Dmicrosoft.com; c=
+v=3Dnone; b=3DeED0Sli24wE++jvM5BstrZJK0ZWWozDaBtgAwhanliOV+RpAVo6PLoIP2kVcd=
+9vLpH+hHf+AXvOvnHoYunx0FnBcvWRWgj3gX8n6AQMxB3shoQnlxG/omXRafn2moM8X103aZCrF=
+zH1qiGqAYRMI+wdFvHmH++QP70yRkPE1w1DZbseYuM4K+0F+Anu1joxab1ooBU7l840CGekQ4r6=
+oWxWbFmCk6gxZ0XGng+xKH6Q28NGACDkXqeIctP4tPqGfYIYIlf3WFTx5uXDMgDPC/YubEdNj8e=
+Rmu1sJ6JKsC6KSdU8zuNt7AK3VQmW4Or1Q9zAUib36Wk0Hc8cCHnfpFg=3D=3D
+ARC-Message-Signature: i=3D1; a=3Drsa-sha256; c=3Drelaxed/relaxed; d=3Dmicr=
+osoft.com; s=3Darcselector10001; h=3DFrom:Date:Subject:Message-ID:Content-T=
+ype:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchang=
+e-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1; bh=3DyrMFwco=
+Cfx2szOXxqjFFBpQQfcLFqkt/0N4u058vF5I=3D; b=3DrqeWuysiVpXaM2Clhq0TqCzfANLTou=
+Qhruz7CDyd522wHXBNrKYHtNM/VkilYJI+kC5hkYeqrwwqUF+A5aN8eJV0zLUcYa8M8zbowAeq5=
+w05+Z4RZmu2gl3kPIHLc8FlUeFhAP16x3YCPq0hXG3vKfUwVFyK8wreGTAf57Ufl1jh0HcVpeql=
++nb3mqIAAnRM1ai86sKDCFVX6SpzbAoBC6a2g/G9H4379qcy6nxEVyQ/n3w1vdW0gpR55CIQNGu=
+OeJKrB2uLXzOGICfn7JAMzy2M5m+tB2rLgXTn8g2mEEFdt09DzyGlP223AAYTtqP7fbjD/tYMyc=
+s/gnCFimlmig=3D=3D
+ARC-Authentication-Results: i=3D1; mx.microsoft.com 1; spf=3Dpass smtp.mail=
+from=3Dsupport.dyson.de; dmarc=3Dpass action=3Dnone header.from=3Dsupport.d=
+yson.de; dkim=3Dpass header.d=3Dsupport.dyson.de; arc=3Dnone
+DKIM-Signature: v=3D1; a=3Drsa-sha256; c=3Drelaxed/relaxed; d=3Dsupport.dys=
+on.de; s=3Dselector1; h=3DFrom:Date:Subject:Message-ID:Content-Type:MIME-Ve=
+rsion:X-MS-Exchange-SenderADCheck; bh=3DyrMFwcoCfx2szOXxqjFFBpQQfcLFqkt/0N4=
+u058vF5I=3D; b=3DR9+eAj2Slb+T79qJxoNhWmEhC+B07zC9N7z3J1WS/U5MansqXRjBYuq24G=
+PQlQd3G15U/sZEs2JlTJQdItWMRUSIDRjzqssHS9qzUZEC2eLfwWnB01siaOqIZoYxUsPjcWOfD=
+nzwq+71AJuD1/wCHDH5AqM6nr7cZ4yYhWyb/DvISe/rpblJ2v25HhaTPuWSG5narmUl+Y4S1FTw=
+/5I2676pMgpctbLnaVuM/yNTS7x8qlIUsp1WwTFDcYhJyn/qMmMbjdq9EwKCDj88lTj1/Ngje10=
+RrliifSdTAIrudGLgbhyTS7B0HU24sSwnD0SVDN4sa6nT1uNLKsY3X9F2bA=3D=3D
+Received: from AM0PR09MB3875.eurprd09.prod.outlook.com (2603:10a6:208:196::=
+18) by AM0PR09MB3778.eurprd09.prod.outlook.com (2603:10a6:208:18d::7) with =
+Microsoft SMTP Server (version=3DTLS1_2, cipher=3DTLS_ECDHE_RSA_WITH_AES_25=
+6_GCM_SHA384) id 15.21.315.17; Mon, 17 Aug 2026 12:38:25 +0000
+Received: from AM0PR09MB3875.eurprd09.prod.outlook.com ([::1]) by AM0PR09MB=
+3875.eurprd09.prod.outlook.com ([fe80::bd96:13b:580b:2d40%4]) with Microsof=
+t SMTP Server id 15.21.0315.016; Mon, 17 Aug 2026 12:38:25 +0000
+From: "owner.supportde" &lt;owner.support@support.dyson.de&gt;
+To: Yivhenii Istrotenko &lt;istrotenkoyivhenii@gmail.com&gt;
+Subject: RE: [EXTERNAL EMAIL]Re: Dyson - Fallnummer: 55241983 [ thread::0pK=
+l7r8UMk-bRpd54cC95x4:: ]
+Thread-Topic: [EXTERNAL EMAIL]Re: Dyson - Fallnummer: 55241983 [ thread::0p=
+Kl7r8UMk-bRpd54cC95x4:: ]
+Thread-Index: AQHdLkSWAnqH+96EHk+9mtUP0FQj6raiLg7DgAAAAZ0=3D
+Date: Mon, 17 Aug 2026 12:38:25 +0000
+Message-ID: &lt;d1f90e5d61ef47b1b59ce9a90a233084@AM0PR09MB3875.eurprd09.pro=
+d.outlook.com&gt;
+References: &lt;qnt9u000000000000000000000000000000000000000000000TJO35R00X=
+VXYW65VSJGiovjV1iXK7w@sfdc.net&gt; &lt;17ee4512-6d0d-4c32-8e17-5c481dfab286=
+@ref.local&gt; &lt;0a480640e7bd4ddd8bb3f9377a5df799@AM0PR09MB3875.eurprd09.=
+prod.outlook.com&gt; &lt;CAP5h6R3jyTPtk1cOjqcvNMQsufhTJqTRQL7=3DZ2TYgXdwmkK=
+=3Dow@mail.gmail.com&gt;
+In-Reply-To: &lt;CAP5h6R3jyTPtk1cOjqcvNMQsufhTJqTRQL7=3DZ2TYgXdwmkK=3Dow@ma=
+il.gmail.com&gt;
+X-MS-Has-Attach: yes
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Inbox-Rules-Loop: owner.support@support.dyson.de
+X-MS-TNEF-Correlator:=20
+authentication-results: dkim=3Dnone (message not signed) header.d=3Dnone;dm=
+arc=3Dnone action=3Dnone header.from=3Dsupport.dyson.de;
+x-ms-exchange-parent-message-id: &lt;CAP5h6R3jyTPtk1cOjqcvNMQsufhTJqTRQL7=
+=3DZ2TYgXdwmkK=3Dow@mail.gmail.com&gt;
+auto-submitted: auto-generated
+x-ms-exchange-generated-message-source: Mailbox Rules Agent
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: AM0PR09MB3875:EE_|AM0PR09MB3778:EE_
+x-ms-office365-filtering-correlation-id: 6131fd2e-34d2-4a90-6bd6-08defc5c6e=
+a8
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;ARA:13230040|10070799003|6049299003|23010399003=
+|376014|366016|1800799024|13003099007|4053099003|5133699003|10067099003|414=
+3699003|11063799006|56012099006|22082099003|18002099003|8096899003|12063799=
+003;
+x-microsoft-antispam-message-info: 8r23g6gEvzjHfZerctgRCZ8qS8emLgI/LxUi4An7=
+rUjlNDnVJA5nP4qJL//X9Ay6tMyRWUjEhnL7ddKQdmoxitjYPHb/P+zEO2/jJ4PF5kJ/8GOsJLM=
+Hle+4G8ci/3RxYnq4qN5AGur/4pDfDAX0pkcrHMZotE3TmmJL7w1rcaatnrAARPef8uP8Yg4wbv=
+IJKD5vFnET3s2ZN2uJ8ThOf0RoBOemdCVmLcWvPmSCumIVkuPG00j0GK7Faj5RzuErvou+K50nM=
+JqGmzxu15GE+fItrclmVPWqx5llgq+ODxQyCSHo3Y9lYt5JQ/qHw8OZg2fo8T+4bI5KsPn6kbjo=
+yTuuLMlxCWhj5A8cF6iNnGkgeV3YbZej7pbEeRBCFfeF6Oab+RcOT5TSfj1ULx58Wl4blYQIcKh=
+07oB03PsxSs1JzecNAu64FqtGPFEm6bVDRhwYzwDxNq04E+V6LC8hHJaWYOQ+eQ577F8OXfc9GI=
+RLeJx5I14F5btSKfQrh9DNNBskUXiby3SsMMo6VXLLsVTaq51hfY6fpkkxxzUSRIf3noFOrpsP1=
+m/2u+a/LASbNT4ArM0VGuOeIvz5mcASBNQ7qnWTvnq+2EC9nAB46Qt1hJySDUdMYfPGSWgqodHy
+x-forefront-antispam-report: CIP:255.255.255.255;CTRY:;LANG:de;SCL:1;SRV:;I=
+PV:NLI;SFV:NSPM;H:AM0PR09MB3875.eurprd09.prod.outlook.com;PTR:;CAT:NONE;SFS=
+:(13230040)(10070799003)(6049299003)(23010399003)(376014)(366016)(180079902=
+4)(13003099007)(4053099003)(5133699003)(10067099003)(4143699003)(1106379900=
+6)(56012099006)(22082099003)(18002099003)(8096899003)(12063799003);DIR:OUT;=
+SFP:1101;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0: rxPYlFrRcT/TtUUFp5FEz7oYknFWoM1mqhib0=
+qrsFz8nNbA3wSTy3L4XkaJsJmiktvxvF/9ckO23EdhvcEpqTqRVJFg7XPYKdPaDybwwb6hA64jY=
+5s8ODTKpDhaqTgb9ME874i9uvtbpYMYsPa8dl+/ibFillUset0/tBQ+LqJlGcnJu2rmLG6lu51e=
+EGD8a3nt77aYakqXFyLvdP5TvVcu/v8K8kXcDsG3NPiXBgRbJn8PPT/YhefGZHBXpwNKHXQ9VUf=
+j+FntLZaukJkFKSsMENS+l0YzedG/EgWN+1RluE+aXc/vLHwfhOkQFHuOcSAjgcpjXI4D9HmoA3=
+cat8CAR1yOx0IVLKwuFiuAjy7usUn3FWf2DsZfiCrOgTop1PmiYSfyWG3nRRWN9qfsz91tAR96S=
+NIHyY/QypDaEDT1CanmxYsQSnchZnTo8IU32
+Content-Type: multipart/mixed; boundary=3D"_005_d1f90e5d61ef47b1b59ce9a90a2=
+33084AM0PR09MB3875eurprd09pr_"
+MIME-Version: 1.0
+X-OriginatorOrg: support.dyson.de
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: AM0PR09MB3875.eurprd09.prod.outlook.c=
+om
+X-MS-Exchange-CrossTenant-Network-Message-Id: 6131fd2e-34d2-4a90-6bd6-08def=
+c5c6ea8
+X-MS-Exchange-CrossTenant-originalarrivaltime: 17 Aug 2026 12:38:25.6774 (U=
+TC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: b6e8236b-ceb2-401d-9169-2917d0b07d48
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AM0PR09MB3778
+
+--_005_d1f90e5d61ef47b1b59ce9a90a233084AM0PR09MB3875eurprd09pr_
+Content-Type: multipart/alternative; boundary=3D"_000_d1f90e5d61ef47b1b59ce=
+9a90a233084AM0PR09MB3875eurprd09pr_"
+
+--_000_d1f90e5d61ef47b1b59ce9a90a233084AM0PR09MB3875eurprd09pr_
+Content-Type: text/plain; charset=3D"iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+[cid:image001.png@01DAF899.08C03570]&lt;https://www.dyson.de/?utm_campaign=
+=3D3Dt=3D
+ransact__c__notify__transactional__order_created__confirmation&amp;utm_sour=
+ce=3D
+=3D3Dsalesforce&amp;utm_medium=3D3Demail&gt;
+
+
+
+Hallo,
+
+Dieser Posteingang wird nicht =3DFCberwacht. Daher erhalten Sie keine Antwo=
+rt=3D
+ auf die E-Mail, die Sie an diese Adresse gesendet haben.
+
+Wenn Sie derzeit Dyson Kunde sind und Hilfe mit Ihrem Ger=3DE4t ben=3DF6tig=
+en, =3D
+k=3DF6nnen Sie das Problem schnell und einfach mit unserem Online-Support b=
+eh=3D
+eben: https://www.dyson.de/support
+
+Mit freundlichen Gr=3DFC=3DDFen,
+
+Dyson Kundenservice
+
+
+
+
+
+Kontaktiere uns
+Falls du Fragen hast oder Unterst=3DFCtzung ben=3DF6tigst, hilft dir unser =
+Dyso=3D
+n Support-Team&lt;https://www.dyson.de/support/journey/contact-us?utm_campa=
+ign=3D
+=3D3Dtransact__c__notify__transactional__return_received__confirmation&amp;=
+utm_so=3D
+urce=3D3Dsalesforce&amp;utm_medium=3D3Demail&gt; gerne weiter.
+
+
+
+
+
+[cid:image002.png@01DAF899.08C03570]&lt;https://www.dyson.de/?utm_campaign=
+=3D3Dt=3D
+ransact__c__notify__transactional__order_created__confirmation&amp;utm_sour=
+ce=3D
+=3D3Dsalesforce&amp;utm_medium=3D3Demail&gt;
+
+
+
+Datenschutzerkl=3DE4rung&lt;https://privacy.dyson.com/de/homepage.aspx?utm_=
+campa=3D
+ign=3D3Dtransact__c__notify__transactional__order_created__confirmation&amp=
+;utm_s=3D
+ource=3D3Dsalesforce&amp;utm_medium=3D3Demail&gt; Kontakt&lt;https://www.dy=
+son.de/support=3D
+/journey/contact-us?utm_campaign=3D3Dtransact__c__notify__transactional__or=
+de=3D
+r_created__confirmation&amp;utm_source=3D3Dsalesforce&amp;utm_medium=3D3Dem=
+ail&gt; AGB&lt;htt=3D
+ps://www.dyson.de/content/dam/dyson/documents/eu/de/DE_Dyson_AGB_2022.pdf&g=
+t; =3D
+Garantiebedingungen&lt;https://www.dyson.de/content/dam/dyson/documents/eu/=
+de/=3D
+Dyson_Garantiebedingungen_2022.pdf&gt;
+
+
+
+Dyson GmbH, vertreten durch den Gesch=3DE4ftsf=3DFChrer: Guillaume Lejarre,=
+ Mar=3D
+tin Bowen - Sitz der Gesellschaft: K=3DF6ln - Amtsgericht K=3DF6ln HRB 3126=
+4 US=3D
+t-IdNr. DE 812 3446 89
+
+
+
+
+
+
+
+--_000_d1f90e5d61ef47b1b59ce9a90a233084AM0PR09MB3875eurprd09pr_
+Content-Type: text/html; charset=3D"iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv=3D3D"Content-Type" content=3D3D"text/html; charset=3D3D=
+iso-8859-=3D
+1"&gt;
+&lt;meta name=3D3D"Generator" content=3D3D"Microsoft Word 15 (filtered medi=
+um)"&gt;
+&lt;!--[if !mso]&gt;&lt;style&gt;v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+&lt;/style&gt;&lt;![endif]--&gt;&lt;style&gt;&lt;!--
+/* Font Definitions */
+@font-face
+=3D09{font-family:"Cambria Math";
+=3D09panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+=3D09{font-family:Calibri;
+=3D09panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+=3D09{font-family:"Dyson Futura Light";
+=3D09panose-1:2 11 4 3 3 2 4 2 3 6;}
+@font-face
+=3D09{font-family:inherit;
+=3D09panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+=3D09{font-family:DysonFutura;
+=3D09panose-1:0 0 0 0 0 0 0 0 0 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+=3D09{margin:0cm;
+=3D09font-size:11.0pt;
+=3D09font-family:"Calibri",sans-serif;
+=3D09mso-ligatures:standardcontextual;
+=3D09mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+=3D09{mso-style-priority:99;
+=3D09color:#0563C1;
+=3D09text-decoration:underline;}
+span.EmailStyle17
+=3D09{mso-style-type:personal-compose;
+=3D09font-family:"Dyson Futura Light",sans-serif;
+=3D09color:windowtext;}
+.MsoChpDefault
+=3D09{mso-style-type:export-only;
+=3D09mso-fareast-language:EN-US;}
+@page WordSection1
+=3D09{size:612.0pt 792.0pt;
+=3D09margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+=3D09{page:WordSection1;}
+--&gt;&lt;/style&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+&lt;o:shapedefaults v:ext=3D3D"edit" spidmax=3D3D"1026" /&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+&lt;o:shapelayout v:ext=3D3D"edit"&gt;
+&lt;o:idmap v:ext=3D3D"edit" data=3D3D"1" /&gt;
+&lt;/o:shapelayout&gt;&lt;/xml&gt;&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body lang=3D3D"EN-GB" link=3D3D"#0563C1" vlink=3D3D"#954F72" style=3D3D=
+"word-wrap:=3D
+break-word"&gt;
+&lt;div class=3D3D"WordSection1"&gt;
+&lt;p style=3D3D"margin:0cm"&gt;&lt;span style=3D3D"color:black;border:none=
+ windowtext 1=3D
+.0pt;padding:0cm"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=3D3D"color:black=
+"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/spa=3D
+n&gt;&lt;/p&gt;
+&lt;div align=3D3D"center"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"600=3D
+" style=3D3D"width:450.0pt;background:black;box-sizing: border-box;border-s=
+pa=3D
+cing: 0px"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:70.5pt"&gt;
+&lt;td width=3D3D"761" style=3D3D"width:570.75pt;padding:0cm 0cm 0cm 0cm;he=
+ight:70=3D
+.5pt;word-break:break-word"&gt;
+&lt;div align=3D3D"center"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"596=3D
+" style=3D3D"width:447.0pt"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:67.5pt"&gt;
+&lt;td width=3D3D"757" style=3D3D"width:567.75pt;padding:0cm 0cm 0cm 0cm;he=
+ight:67=3D
+.5pt"&gt;
+&lt;div align=3D3D"center"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"592=3D
+" style=3D3D"width:444.0pt"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:64.5pt"&gt;
+&lt;td width=3D3D"753" style=3D3D"width:564.75pt;padding:15.0pt 3.75pt 2.25=
+pt 3.75=3D
+pt;height:64.5pt"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"578=3D
+" style=3D3D"width:433.5pt"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:44.25pt"&gt;
+&lt;td width=3D3D"739" valign=3D3D"top" style=3D3D"width:554.25pt;padding:0=
+cm 0cm 0c=3D
+m 11.25pt;height:44.25pt"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"559=3D
+" style=3D3D"width:419.25pt"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:41.25pt"&gt;
+&lt;td width=3D3D"720" style=3D3D"width:540.0pt;padding:0cm 0cm 7.5pt 0cm;h=
+eight:4=3D
+1.25pt"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellspacing=3D3D"0" cel=
+lpadding=3D
+=3D3D"0" style=3D3D"border-collapse:collapse"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:33.75pt"&gt;
+&lt;td width=3D3D"70" style=3D3D"width:52.5pt;padding:0cm 0cm 0cm 0cm;heigh=
+t:33.75=3D
+pt"&gt;
+&lt;p style=3D3D"margin:0cm"&gt;&lt;a href=3D3D"https://www.dyson.de/?utm_c=
+ampaign=3D3Dtra=3D
+nsact__c__notify__transactional__order_created__confirmation&amp;amp;utm_so=
+urce=3D
+=3D3Dsalesforce&amp;amp;utm_medium=3D3Demail" target=3D3D"_blank"&gt;&lt;sp=
+an style=3D3D"font=3D
+-size:10.0pt;font-family:&amp;quot;inherit&amp;quot;,serif;color:blue;borde=
+r:none w=3D
+indowtext 1.0pt;padding:0cm;text-decoration:none"&gt;&lt;img border=3D3D"0"=
+ width=3D
+=3D3D"70" height=3D3D"27" style=3D3D"width:.7291in;height:.2812in" id=3D3D"=
+Picture_=3D
+x0020_2" src=3D3D"cid:image001.png@01DAF899.08C03570"&gt;&lt;/span&gt;&lt;/=
+a&gt;&lt;span style=3D
+=3D3D"color:black;border:none windowtext 1.0pt;padding:0cm"&gt;&amp;nbsp;&l=
+t;/span&gt;&lt;o:p=3D
+&gt;&lt;/o:p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p style=3D3D"margin:0cm;font-variant-ligatures: normal;font-variant-cap=
+s: no=3D
+rmal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;t=
+=3D
+ext-decoration-thickness: initial;text-decoration-style: initial;text-decor=
+=3D
+ation-color: initial;word-spacing:0px"&gt;
+&lt;span style=3D3D"color:black;border:none windowtext 1.0pt;padding:0cm"&g=
+t;&amp;nbsp;=3D
+&lt;/span&gt;&lt;span style=3D3D"color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt=
+;/span&gt;&lt;/p&gt;
+&lt;p style=3D3D"margin:0cm;font-variant-ligatures: normal;font-variant-cap=
+s: no=3D
+rmal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;t=
+=3D
+ext-decoration-thickness: initial;text-decoration-style: initial;text-decor=
+=3D
+ation-color: initial;word-spacing:0px"&gt;
+&lt;span style=3D3D"color:black;border:none windowtext 1.0pt;padding:0cm"&g=
+t;Hallo,=3D
+&lt;br&gt;
+&lt;br&gt;
+Dieser Posteingang wird nicht =3DFCberwacht. Daher erhalten Sie keine Antwo=
+rt=3D
+ auf die E-Mail, die Sie an diese Adresse gesendet haben.&lt;br&gt;
+&lt;br&gt;
+Wenn Sie derzeit Dyson Kunde sind und Hilfe mit Ihrem Ger=3DE4t ben=3DF6tig=
+en, =3D
+k=3DF6nnen Sie das Problem schnell und einfach mit unserem Online-Support b=
+eh=3D
+eben:&amp;nbsp;&lt;a href=3D3D"https://www.dyson.de/support"&gt;https://www=
+.dyson.de/su=3D
+pport&lt;/a&gt;&lt;/span&gt;&lt;span style=3D3D"color:black"&gt;&lt;o:p&gt;=
+&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=3D3D"margin:0cm;font-variant-ligatures: normal;font-variant-cap=
+s: no=3D
+rmal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;t=
+=3D
+ext-decoration-thickness: initial;text-decoration-style: initial;text-decor=
+=3D
+ation-color: initial;word-spacing:0px"&gt;
+&lt;span style=3D3D"color:black;border:none windowtext 1.0pt;padding:0cm"&g=
+t;&lt;br&gt;
+Mit freundlichen Gr=3DFC=3DDFen,&lt;br&gt;
+&lt;br&gt;
+Dyson Kundenservice &amp;nbsp;&lt;/span&gt;&lt;span style=3D3D"color:black"=
+&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/s=3D
+pan&gt;&lt;/p&gt;
+&lt;p style=3D3D"margin:0cm;font-variant-ligatures: normal;font-variant-cap=
+s: no=3D
+rmal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;t=
+=3D
+ext-decoration-thickness: initial;text-decoration-style: initial;text-decor=
+=3D
+ation-color: initial;word-spacing:0px"&gt;
+&lt;b&gt;&lt;span style=3D3D"font-family:&amp;quot;Arial&amp;quot;,sans-ser=
+if;color:black;bord=3D
+er:none windowtext 1.0pt;padding:0cm"&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&=
+lt;span style=3D3D"color=3D
+:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=3D3D"margin:0cm;font-variant-ligatures: normal;font-variant-cap=
+s: no=3D
+rmal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;t=
+=3D
+ext-decoration-thickness: initial;text-decoration-style: initial;text-decor=
+=3D
+ation-color: initial;word-spacing:0px"&gt;
+&lt;span style=3D3D"color:black;border:none windowtext 1.0pt;padding:0cm"&g=
+t;&amp;nbsp;=3D
+&lt;/span&gt;&lt;span style=3D3D"color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt=
+;/span&gt;&lt;/p&gt;
+&lt;div align=3D3D"center"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"600=3D
+" style=3D3D"width:450.0pt;background:#F3F3F3" id=3D3D"tableSelected0"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:123.75pt"&gt;
+&lt;td width=3D3D"761" style=3D3D"width:570.75pt;padding:0cm 0cm 0cm 0cm;he=
+ight:12=3D
+3.75pt;word-break:break-word"&gt;
+&lt;div align=3D3D"center"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"596=3D
+" style=3D3D"width:447.0pt"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:120.75pt"&gt;
+&lt;td width=3D3D"757" style=3D3D"width:567.75pt;padding:0cm 0cm 0cm 0cm;he=
+ight:12=3D
+0.75pt"&gt;
+&lt;div align=3D3D"center"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"592=3D
+" style=3D3D"width:444.0pt"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:95.25pt"&gt;
+&lt;td width=3D3D"753" style=3D3D"width:564.75pt;padding:22.5pt 3.75pt 0cm =
+3.75pt;=3D
+height:95.25pt"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"578=3D
+" style=3D3D"width:433.5pt"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:69.75pt"&gt;
+&lt;td width=3D3D"739" valign=3D3D"top" style=3D3D"width:554.25pt;padding:0=
+cm 11.25p=3D
+t 15.0pt 11.25pt;height:69.75pt"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"544=3D
+" style=3D3D"width:408.0pt"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:29.25pt"&gt;
+&lt;td width=3D3D"705" style=3D3D"width:528.75pt;padding:0cm 0cm 7.5pt 0cm;=
+height:=3D
+29.25pt"&gt;
+&lt;p style=3D3D"margin:0cm;line-height:20.25pt"&gt;&lt;span style=3D3D"fon=
+t-size:13.0pt=3D
+;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#333333;border:none=
+ windowt=3D
+ext 1.0pt;padding:0cm"&gt;Kontaktiere uns&lt;/span&gt;&lt;span style=3D3D"f=
+ont-size:16.0p=3D
+t;font-family:&amp;quot;DysonFutura&amp;quot;,serif;color:#333333;border:no=
+ne windo=3D
+wtext 1.0pt;padding:0cm"&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;o:p&gt;&lt=
+;/o:p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=3D3D"height:21.0pt"&gt;
+&lt;td width=3D3D"705" style=3D3D"width:528.75pt;padding:0cm 0cm 7.5pt 0cm;=
+height:=3D
+21.0pt;word-break:break-word"&gt;
+&lt;p class=3D3D"MsoNormal" style=3D3D"line-height:13.5pt;vertical-align:ba=
+seline"=3D
+&gt;&lt;span style=3D3D"font-size:10.5pt;font-family:&amp;quot;Arial&amp;qu=
+ot;,sans-serif;c=3D
+olor:#333333;border:none windowtext 1.0pt;padding:0cm"&gt;Falls du Fragen h=
+ast=3D
+ oder Unterst=3DFCtzung ben=3DF6tigst, hilft dir unser&amp;nbsp;&lt;/span&g=
+t;&lt;span style=3D
+=3D3D"font-size:10.5pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;col=
+or:black;b=3D
+order:none windowtext 1.0pt;padding:0cm"&gt;&lt;a href=3D3D"https://www.dys=
+on.de/su=3D
+pport/journey/contact-us?utm_campaign=3D3Dtransact__c__notify__transactiona=
+l_=3D
+_return_received__confirmation&amp;amp;utm_source=3D3Dsalesforce&amp;amp;ut=
+m_medium=3D
+=3D3Demail" target=3D3D"_blank"&gt;&lt;span style=3D3D"color:black"&gt;Dyso=
+n
+ Support-Team&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;span style=3D3D"font-s=
+ize:10.5pt;font-family:=3D
+&amp;quot;Arial&amp;quot;,sans-serif;color:#333333;border:none windowtext 1=
+.0pt;pad=3D
+ding:0cm"&gt;&amp;nbsp;gerne weiter.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt=
+;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=3D3D"height:21.0pt"&gt;
+&lt;td width=3D3D"753" style=3D3D"width:564.75pt;padding:0cm 3.75pt 7.5pt 3=
+.75pt;h=3D
+eight:21.0pt"&gt;
+&lt;p style=3D3D"margin:0cm"&gt;&lt;span style=3D3D"font-size:1.0pt;font-fa=
+mily:&amp;quot;in=3D
+herit&amp;quot;,serif;color:black;border:none windowtext 1.0pt;padding:0cm"=
+&gt;&amp;nb=3D
+sp;&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p style=3D3D"margin:0cm;font-variant-ligatures: normal;font-variant-cap=
+s: no=3D
+rmal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;t=
+=3D
+ext-decoration-thickness: initial;text-decoration-style: initial;text-decor=
+=3D
+ation-color: initial;word-spacing:0px"&gt;
+&lt;span style=3D3D"color:black;border:none windowtext 1.0pt;padding:0cm"&g=
+t;&amp;nbsp;=3D
+&lt;/span&gt;&lt;span style=3D3D"color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt=
+;/span&gt;&lt;/p&gt;
+&lt;div align=3D3D"center"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"696=3D
+" style=3D3D"width:522.0pt;background:white;box-sizing: border-box;border-s=
+pa=3D
+cing: 0px"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:322.5pt"&gt;
+&lt;td width=3D3D"761" style=3D3D"width:570.75pt;padding:0cm 0cm 0cm 0cm;he=
+ight:32=3D
+2.5pt;word-break:break-word"&gt;
+&lt;div align=3D3D"center"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"692=3D
+" style=3D3D"width:519.0pt"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:319.5pt"&gt;
+&lt;td width=3D3D"757" style=3D3D"width:567.75pt;padding:0cm 0cm 0cm 0cm;he=
+ight:31=3D
+9.5pt"&gt;
+&lt;div align=3D3D"center"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"688=3D
+" style=3D3D"width:516.0pt"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:102.75pt"&gt;
+&lt;td width=3D3D"753" style=3D3D"width:564.75pt;padding:18.75pt 3.75pt 0cm=
+ 3.75pt=3D
+;height:102.75pt"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"674=3D
+" style=3D3D"width:505.5pt"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:39.75pt"&gt;
+&lt;td width=3D3D"739" valign=3D3D"top" style=3D3D"width:554.25pt;padding:0=
+cm 11.25p=3D
+t 0cm 11.25pt;height:39.75pt"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"640=3D
+" style=3D3D"width:480.0pt"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:36.75pt"&gt;
+&lt;td width=3D3D"705" style=3D3D"width:528.75pt;padding:0cm 0cm 7.5pt 0cm;=
+height:=3D
+36.75pt"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellspacing=3D3D"0" cel=
+lpadding=3D
+=3D3D"0" style=3D3D"border-collapse:collapse"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:29.25pt"&gt;
+&lt;td width=3D3D"55" style=3D3D"width:41.25pt;padding:0cm 0cm 0cm 0cm;heig=
+ht:29.2=3D
+5pt"&gt;
+&lt;p style=3D3D"margin:0cm"&gt;&lt;a href=3D3D"https://www.dyson.de/?utm_c=
+ampaign=3D3Dtra=3D
+nsact__c__notify__transactional__order_created__confirmation&amp;amp;utm_so=
+urce=3D
+=3D3Dsalesforce&amp;amp;utm_medium=3D3Demail" target=3D3D"_blank"&gt;&lt;sp=
+an style=3D3D"font=3D
+-size:10.0pt;font-family:&amp;quot;inherit&amp;quot;,serif;color:blue;borde=
+r:none w=3D
+indowtext 1.0pt;padding:0cm;text-decoration:none"&gt;&lt;img border=3D3D"0"=
+ width=3D
+=3D3D"55" height=3D3D"21" style=3D3D"width:.5729in;height:.2187in" id=3D3D"=
+Picture_=3D
+x0020_1" src=3D3D"cid:image002.png@01DAF899.08C03570"&gt;&lt;/span&gt;&lt;/=
+a&gt;&lt;span style=3D
+=3D3D"color:black;border:none windowtext 1.0pt;padding:0cm"&gt;&amp;nbsp;&l=
+t;/span&gt;&lt;o:p=3D
+&gt;&lt;/o:p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style=3D3D"margin:0cm"&gt;&lt;span style=3D3D"font-size:1.0pt;font-fa=
+mily:&amp;quot;in=3D
+herit&amp;quot;,serif;color:black;border:none windowtext 1.0pt;padding:0cm"=
+&gt;&amp;nb=3D
+sp;&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"674=3D
+" style=3D3D"width:505.5pt"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:24.75pt"&gt;
+&lt;td width=3D3D"739" valign=3D3D"top" style=3D3D"width:554.25pt;padding:0=
+cm 11.25p=3D
+t 0cm 11.25pt;height:24.75pt;word-break:break-word"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"640=3D
+" style=3D3D"width:480.0pt"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:21.75pt"&gt;
+&lt;td width=3D3D"705" style=3D3D"width:528.75pt;padding:2.25pt 0cm 7.5pt 0=
+cm;heig=3D
+ht:21.75pt"&gt;
+&lt;p align=3D3D"right" style=3D3D"margin:0cm;text-align:right;line-height:=
+11.25pt=3D
+"&gt;&lt;span style=3D3D"font-size:8.5pt;font-family:&amp;quot;DysonFutura&=
+amp;quot;,serif;=3D
+color:#999999;border:none windowtext 1.0pt;padding:0cm"&gt;&lt;a href=3D3D"=
+https://=3D
+privacy.dyson.com/de/homepage.aspx?utm_campaign=3D3Dtransact__c__notify__tr=
+an=3D
+sactional__order_created__confirmation&amp;amp;utm_source=3D3Dsalesforce&am=
+p;amp;utm_=3D
+medium=3D3Demail" target=3D3D"_blank"&gt;Datenschutzerkl=3DE4rung&lt;/a&gt;=
+&amp;nbsp;&lt;a href=3D
+=3D3D"https://www.dyson.de/support/journey/contact-us?utm_campaign=3D3Dtran=
+sact=3D
+__c__notify__transactional__order_created__confirmation&amp;amp;utm_source=
+=3D3Dsa=3D
+lesforce&amp;amp;utm_medium=3D3Demail" target=3D3D"_blank"&gt;Kontakt&lt;/a=
+&gt;&amp;nbsp;&lt;a href=3D
+=3D3D"https://www.dyson.de/content/dam/dyson/documents/eu/de/DE_Dyson_AGB_2=
+02=3D
+2.pdf" target=3D3D"_blank"&gt;AGB&lt;/a&gt;&amp;nbsp;&lt;a href=3D3D"https:=
+//www.dyson.de/conte=3D
+nt/dam/dyson/documents/eu/de/Dyson_Garantiebedingungen_2022.pdf" target=3D3=
+D"=3D
+_blank"&gt;Garantiebedingungen&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;o:p&gt;&=
+lt;/o:p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=3D3D"height:23.25pt"&gt;
+&lt;td width=3D3D"753" style=3D3D"width:564.75pt;padding:2.25pt 3.75pt 0cm =
+3.75pt;=3D
+height:23.25pt"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"674=3D
+" style=3D3D"width:505.5pt"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:18.0pt"&gt;
+&lt;td width=3D3D"739" valign=3D3D"top" style=3D3D"width:554.25pt;padding:0=
+cm 11.25p=3D
+t 15.0pt 11.25pt;height:18.0pt"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"640=3D
+" style=3D3D"width:480.0pt"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width=3D3D"705" style=3D3D"width:528.75pt;padding:0cm 0cm 0cm 0cm"&g=
+t;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p align=3D3D"center" style=3D3D"margin:0cm;text-align:center"&gt;&lt;sp=
+an style=3D3D"f=3D
+ont-size:1.0pt;font-family:&amp;quot;inherit&amp;quot;,serif;color:black;bo=
+rder:non=3D
+e windowtext 1.0pt;padding:0cm"&gt;&amp;nbsp;&lt;/span&gt;&lt;o:p&gt;&lt;/o=
+:p&gt;&lt;/p&gt;
+&lt;div align=3D3D"center"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"688=3D
+" style=3D3D"width:516.0pt;box-sizing: border-box;border-spacing: 0px"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:172.5pt"&gt;
+&lt;td width=3D3D"753" style=3D3D"width:564.75pt;padding:0cm 3.75pt 30.0pt =
+3.75pt;=3D
+height:172.5pt;word-break:break-word"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellpadding=3D3D"0" wid=
+th=3D3D"674=3D
+" style=3D3D"width:505.5pt;box-sizing: border-box;border-spacing: 0px"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:139.5pt"&gt;
+&lt;td width=3D3D"739" valign=3D3D"top" style=3D3D"width:554.25pt;padding:0=
+cm 11.25p=3D
+t 15.0pt 11.25pt;height:139.5pt;box-sizing: border-box;border-spacing: 0px"=
+=3D
+&gt;
+&lt;div align=3D3D"center"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellspacing=3D3D"0" cel=
+lpadding=3D
+=3D3D"0" width=3D3D"640" style=3D3D"width:480.0pt;border-collapse:collapse;=
+box-si=3D
+zing: border-box;border-spacing: 0px"&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:17.25pt"&gt;
+&lt;td width=3D3D"640" style=3D3D"width:480.0pt;padding:2.25pt 3.75pt 0cm 3=
+.75pt;h=3D
+eight:17.25pt"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellspacing=3D3D"0" cel=
+lpadding=3D
+=3D3D"0" width=3D3D"630" style=3D3D"width:472.5pt;border-collapse:collapse"=
+&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:15.0pt"&gt;
+&lt;td width=3D3D"630" valign=3D3D"top" style=3D3D"width:472.5pt;padding:0c=
+m 11.25pt=3D
+ 15.0pt 11.25pt;height:15.0pt"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellspacing=3D3D"0" cel=
+lpadding=3D
+=3D3D"0" width=3D3D"600" style=3D3D"width:450.0pt;border-collapse:collapse"=
+&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width=3D3D"600" style=3D3D"width:450.0pt;padding:0cm 0cm 0cm 0cm"&gt=
+;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=3D3D"height:91.5pt"&gt;
+&lt;td width=3D3D"640" style=3D3D"width:480.0pt;padding:0cm 3.75pt 30.0pt 3=
+.75pt;h=3D
+eight:91.5pt"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellspacing=3D3D"0" cel=
+lpadding=3D
+=3D3D"0" width=3D3D"630" style=3D3D"width:472.5pt;border-collapse:collapse"=
+&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:61.5pt"&gt;
+&lt;td width=3D3D"630" valign=3D3D"top" style=3D3D"width:472.5pt;padding:0c=
+m 11.25pt=3D
+ 15.0pt 11.25pt;height:61.5pt"&gt;
+&lt;table class=3D3D"MsoNormalTable" border=3D3D"0" cellspacing=3D3D"0" cel=
+lpadding=3D
+=3D3D"0" width=3D3D"600" style=3D3D"width:450.0pt;border-collapse:collapse"=
+&gt;
+&lt;tbody&gt;
+&lt;tr style=3D3D"height:31.5pt"&gt;
+&lt;td width=3D3D"600" style=3D3D"width:450.0pt;padding:0cm 0cm 7.5pt 0cm;h=
+eight:3=3D
+1.5pt"&gt;
+&lt;p style=3D3D"margin:0cm;line-height:11.25pt"&gt;&lt;span style=3D3D"fon=
+t-size:8.5pt;=3D
+font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:#999999;border:none =
+windowte=3D
+xt 1.0pt;padding:0cm"&gt;Dyson GmbH, vertreten durch den Gesch=3DE4ftsf=3DF=
+Chrer: =3D
+Guillaume Lejarre, Martin Bowen - Sitz der Gesellschaft:
+ K=3DF6ln - Amtsgericht K=3DF6ln HRB 31264 USt-IdNr. DE 812 3446 89&amp;nbs=
+p;&lt;/span=3D
+&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=3D3D"height:7.5pt"&gt;
+&lt;td width=3D3D"600" style=3D3D"width:450.0pt;padding:0cm 0cm 7.5pt 0cm;h=
+eight:7=3D
+.5pt"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=3D3D"height:7.5pt"&gt;
+&lt;td width=3D3D"600" style=3D3D"width:450.0pt;padding:0cm 0cm 7.5pt 0cm;h=
+eight:7=3D
+.5pt"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p class=3D3D"MsoNormal"&gt;&lt;span style=3D3D"font-size:12.0pt;color:b=
+lack;border:n=3D
+one windowtext 1.0pt;padding:0cm"&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p style=3D3D"margin:0cm;font-variant-ligatures: normal;font-variant-cap=
+s: no=3D
+rmal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;t=
+=3D
+ext-decoration-thickness: initial;text-decoration-style: initial;text-decor=
+=3D
+ation-color: initial;word-spacing:0px"&gt;
+&lt;span style=3D3D"font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:=
+black;border:=3D
+none windowtext 1.0pt;padding:0cm"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=
+=3D3D"color:black"=3D
+&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=3D3D"MsoNormal"&gt;&lt;span style=3D3D"font-size:12.0pt;color:b=
+lack;border:n=3D
+one windowtext 1.0pt;padding:0cm"&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;/span&gt;&lt;span style=3D3D"font-family:&amp;quot;Dyson Futura Light&a=
+mp;quot;,sans-serif=3D
+"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+--_000_d1f90e5d61ef47b1b59ce9a90a233084AM0PR09MB3875eurprd09pr_--
+--_005_d1f90e5d61ef47b1b59ce9a90a233084AM0PR09MB3875eurprd09pr_
+Content-Type: image/png; name=3D"image001.png"
+Content-Description: image001.png
+Content-Disposition: attachment; filename=3D"image001.png"; size=3D2388; cr=
+eation-date=3D"Tue, 27 Aug 2024 13:51:52 GMT"; modification-date=3D"Mon, 19=
+ Jan 2026 23:28:20 GMT"
+Content-ID: &lt;image001.png@01DAF899.08C03570&gt;
+Content-Transfer-Encoding: base64
+
+
+--_005_d1f90e5d61ef47b1b59ce9a90a233084AM0PR09MB3875eurprd09pr_
+Content-Type: image/png; name=3D"image002.png"
+Content-Description: image002.png
+Content-Disposition: attachment; filename=3D"image002.png"; size=3D2496; cr=
+eation-date=3D"Tue, 27 Aug 2024 13:51:57 GMT"; modification-date=3D"Mon, 19=
+ Jan 2026 23:28:20 GMT"
+Content-ID: &lt;image002.png@01DAF899.08C03570&gt;
+Content-Transfer-Encoding: base64
+
+
+--_005_d1f90e5d61ef47b1b59ce9a90a233084AM0PR09MB3875eurprd09pr_--</pre></di=
+v></div></div></body></html>
+------MultipartBoundary--amMUkYHR6UgKrw7hqBWNHF7CMc1VhkIewfddqdgqiU----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-ebea6e1f-1749-4560-9e12-98e976714419@mhtml.blink
+
+@charset "utf-8";
+
+body { font-size: 14px; margin: 0px; font-family: Arial, Helvetica, sans-se=
+rif !important; }
+
+.page-wrapper { display: table; height: auto; width: 100%; }
+
+.page_title { font-size: 20px; font-weight: 400; padding: 20px 11% 0px; }
+
+.message_id { color: rgb(46, 125, 50); }
+
+.top-area { background-color: rgb(255, 255, 255); display: table-row; }
+
+table { border-collapse: collapse; margin: 0px auto; width: 80%; }
+
+td, th { border-bottom: thin solid rgb(224, 224, 224); border-top: thin sol=
+id rgb(224, 224, 224); font-weight: 400; }
+
+td { border-right: thin solid rgb(224, 224, 224); padding: 8px; }
+
+th { border-left: thin solid rgb(224, 224, 224); padding: 12px 20px; text-a=
+lign: left; }
+
+.download-buttons, .learn-more-link { color: rgb(17, 85, 204); cursor: poin=
+ter; padding-left: 5px; text-decoration: none; }
+
+.authresult { text-transform: uppercase; }
+
+.download-buttons { display: inline-block; font-size: 14px; padding: 20px; =
+}
+
+.more-actions { display: table; padding-bottom: 25px; width: 100%; }
+
+.download-links { display: table-cell; width: 39%; }
+
+.header-body-button { display: table-cell; text-align: right; width: 39%; }
+
+#butterbar-wrap { display: inline-block; }
+
+#butterbar-container { left: auto; position: absolute; text-align: center; =
+top: 18px; width: 100%; }
+
+.clipboard-icon { background-image: url("//ssl.gstatic.com/images/icons/mat=
+erial/system/1x/content_paste_black_24dp.png"); background-position: 50% ce=
+nter; background-repeat: no-repeat; background-size: 15px auto; padding: 8p=
+x 20px 8px 8px; }
+
+.copy-header-body-button.jfk-button.jfk-button-action { display: inline-blo=
+ck; padding: 4px 6px; text-decoration: none; }
+
+#copy-header-body-button { margin: 10px; }
+
+.spacing { display: table-cell; width: 11%; }
+
+.bottom-area { background-color: rgb(238, 238, 238); display: table-row; he=
+ight: 100%; }
+
+.raw_message { border-top: thin solid rgb(189, 189, 189); display: table-ce=
+ll; height: 100%; }
+
+.raw_message_text { background-color: rgb(255, 255, 255); border: thin soli=
+d rgb(224, 224, 224); border-radius: 5px; color: rgb(97, 97, 97); height: 1=
+00%; margin: 25px 10%; padding: 40px 30px; white-space: pre-wrap; word-brea=
+k: break-word; overflow-wrap: break-word; }
+
+.truncate_message { color: rgb(211, 47, 47); padding: 10px; text-align: cen=
+ter; }
+
+.jfk-butterBar { border-radius: 2px; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px=
+ 4px; transition: linear 1s, opacity 1s; border-style: solid; border-width:=
+ 0px; font-size: 11px; height: 0px; opacity: 0; visibility: hidden; overflo=
+w: hidden; padding: 0px; text-align: center; }
+
+.jfk-butterBar-info { background-color: rgb(249, 237, 190); border-color: r=
+gb(240, 195, 109); color: rgb(51, 51, 51); }
+
+.jfk-butterBar-error { background-color: rgb(72, 72, 72); border-color: rgb=
+(32, 32, 32); color: rgb(255, 255, 255); }
+
+.jfk-butterBar-promo { background-color: rgb(214, 233, 248); border-color: =
+rgb(77, 144, 240); color: rgb(51, 51, 51); }
+
+.jfk-butterBar-warning { background-color: rgb(221, 75, 57); border-color: =
+rgb(96, 32, 25); color: rgb(255, 255, 255); }
+
+.jfk-butterBar-shown { transition: opacity 0.218s; border-width: 1px; min-h=
+eight: 14px; height: auto; opacity: 1; visibility: visible; padding: 6px 16=
+px; }
+
+.jfk-butterBar-mini.jfk-butterBar-shown { padding: 2px 16px; }
+
+.goog-inline-block { position: relative; display: inline-block; }
+
+* html .goog-inline-block { display: inline; }
+
+:first-child + html .goog-inline-block { display: inline; }
+
+.jfk-button { border-radius: 2px; cursor: default; font-size: 11px; font-we=
+ight: bold; text-align: center; white-space: nowrap; margin-right: 16px; he=
+ight: 27px; line-height: 27px; min-width: 54px; outline: 0px; padding: 0px =
+8px; }
+
+.jfk-button-hover { box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px; }
+
+.jfk-button-selected { box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px inset; }
+
+.jfk-button .jfk-button-img { margin-top: -3px; vertical-align: middle; }
+
+.jfk-button-label { margin-left: 5px; }
+
+.jfk-button-narrow { min-width: 34px; padding: 0px; }
+
+.jfk-button-collapse-left, .jfk-button-collapse-right { z-index: 1; }
+
+.jfk-button-collapse-left.jfk-button-disabled { z-index: 0; }
+
+.jfk-button-checked.jfk-button-collapse-left, .jfk-button-checked.jfk-butto=
+n-collapse-right { z-index: 2; }
+
+.jfk-button-collapse-left:focus, .jfk-button-collapse-right:focus, .jfk-but=
+ton-hover.jfk-button-collapse-left, .jfk-button-hover.jfk-button-collapse-r=
+ight { z-index: 3; }
+
+.jfk-button-collapse-left { margin-left: -1px; border-bottom-left-radius: 0=
+px; border-top-left-radius: 0px; }
+
+.jfk-button-collapse-right { margin-right: 0px; border-top-right-radius: 0p=
+x; border-bottom-right-radius: 0px; }
+
+.jfk-button.jfk-button-disabled:active { box-shadow: none; }
+
+.jfk-button-action { box-shadow: none; background-color: rgb(77, 144, 254);=
+ background-image: -webkit-linear-gradient(top, rgb(77, 144, 254), rgb(71, =
+135, 237)); border: 1px solid rgb(48, 121, 237); color: rgb(255, 255, 255);=
+ }
+
+.jfk-button-action.jfk-button-hover { box-shadow: none; background-color: r=
+gb(53, 122, 232); background-image: linear-gradient(rgb(77, 144, 254), rgb(=
+53, 122, 232)); border: 1px solid rgb(47, 91, 183); }
+
+.jfk-button-action:focus { box-shadow: rgb(255, 255, 255) 0px 0px 0px 1px i=
+nset; border: 1px solid rgba(0, 0, 0, 0); outline: rgba(0, 0, 0, 0) 0px; }
+
+.jfk-button-action.jfk-button-clear-outline { box-shadow: none; outline: no=
+ne; }
+
+.jfk-button-action:active { box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px inse=
+t; background: rgb(53, 122, 232); border: 1px solid rgb(47, 91, 183); }
+
+.jfk-button-action.jfk-button-disabled { background: rgb(77, 144, 254); opa=
+city: 0.5; }
+
+sentinel { }
+------MultipartBoundary--amMUkYHR6UgKrw7hqBWNHF7CMc1VhkIewfddqdgqiU------
