@@ -1,8 +1,8 @@
 {
-  "release_url": "https://github.com/blacksun132/imgs/releases/tag/debug-20260923-110642",
-  "size": 184241168,
-  "download_url": "https://github.com/blacksun132/imgs/releases/download/debug-20260923-110642/debug-20260923-110642.apk",
-  "asset_id": 583299230,
-  "sha256": "4e0d0985457ce2b7057cc6c8d76038c758c41ade5b16f7f3636f5f9aca6921ee",
-  "tag": "debug-20260923-110642"
+  "size": 183199260,
+  "download_url": "https://github.com/blacksun132/imgs/releases/download/debug-20260923-121529/debug-20260923-121529.apk",
+  "sha256": "a21689dda92604a503facacbd5977d09d2edeef90d05868bc574a5ecc455d7c7",
+  "release_url": "https://github.com/blacksun132/imgs/releases/tag/debug-20260923-121529",
+  "asset_id": 583414313,
+  "tag": "debug-20260923-121529"
 }
